@@ -92,6 +92,9 @@ h1,h2,h3,h4,h5,h6,p{
   min-height: 100%;
   padding-bottom: 4rem;
 }
+.shadow{
+  filter: drop-shadow(0.5rem 0.5rem 1rem #a3a3a3);
+}
 /* background image */
 .background-img{
   z-index: -1;
