@@ -93,7 +93,7 @@ h1,h2,h3,h4,h5,h6,p{
   padding-bottom: 4rem;
 }
 .shadow{
-  filter: drop-shadow(0.5rem 0.5rem 1rem #a3a3a3);
+  filter: drop-shadow(0.3rem 0.3rem 1rem #a3a3a3);
 }
 /* background image */
 .background-img{
