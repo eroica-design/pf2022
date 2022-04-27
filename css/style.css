@@ -103,7 +103,7 @@ h1,h2,h3,h4,h5,h6,p{
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  animation: bg 1s 3s infinite alternate;
+  animation: bg 1s 2s infinite alternate;
 }@keyframes bg{
   0%{filter: grayscale(0%);}
   100%{filter: grayscale(100%);}
