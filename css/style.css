@@ -422,7 +422,7 @@ div#horizSlider figure {
   flex: 1;
   /* border: 1px solid #cecece; */
   /* border-radius: 1rem; */
-  height: 40rem;
+  height: 36rem;
 }
 .dark-item > h4{
   color: #f2f2f2;
@@ -827,6 +827,9 @@ footer{
     margin-bottom: 2rem;
     padding: 0 1rem;
     width: 100%;
+  }
+  .product-img > h5{
+    color: #919191;
   }
   .product-img > img{
     width: 100%;
