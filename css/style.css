@@ -104,7 +104,8 @@ h1,h2,h3,h4,h5,h6,p{
   background-repeat: no-repeat;
   background-position: center;
   animation: bg 1s 2s infinite alternate;
-}@keyframes bg{
+}
+@keyframes bg{
   0%{filter: grayscale(0%);}
   100%{filter: grayscale(100%);}
 }
@@ -313,6 +314,13 @@ main{
 .product-img > p{
   margin-bottom: 1rem;
   font-size: 0.8rem;
+}
+.product-img > h5{
+  font-weight: 500;
+  margin-bottom: 0.4rem;
+}
+.product-img > img{
+  width: 42.3rem;
 }
 .img-left-contain{
   margin: auto;
