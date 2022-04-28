@@ -106,8 +106,8 @@ h1,h2,h3,h4,h5,h6,p{
   animation: bg 1s 2s infinite alternate;
 }
 @keyframes bg{
-  0%{filter: grayscale(0%) blur(5px);}
-  100%{filter: grayscale(100%) blur(0px);}
+  0%{filter: grayscale(0%);}
+  100%{filter: grayscale(100%);}
 }
 
 /* header nav */
