@@ -49,6 +49,7 @@ button{
   border-radius: 2rem;
 }
 .btn-dark{
+  padding-top: 1rem;
   background-color: #fff;
   color: #0052ce;
   font-size: 1.2rem;
@@ -283,18 +284,18 @@ main{
   margin-bottom: 1rem;
   font-weight: 800;
 }
-.p-item > p{
+/* .p-item > p{
   font-family: 'Noto Sans KR';
   color: #7a7a7a;
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 2rem;
   font-weight: 400;
   margin-bottom: 2rem;
-}
+} */
 .p-item > p:last-child{
   font-family: 'Noto Sans KR';
   color: #4e4e4e;
-  font-size: 0.8rem;
+  font-size: 1rem;
   line-height: 2rem;
   font-weight: 400;
   margin-bottom: 2rem;
