@@ -847,6 +847,9 @@ footer{
   .product-img > img{
     width: 100%;
   }
+  .product-img > a > img{
+    width: 100%;
+  }
   .dark-contain{
     flex-direction: column;
     padding: 0 1rem;
